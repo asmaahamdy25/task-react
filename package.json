@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/asmaahamdy25/task-react.",
-  "name": "task-react.",
+  "homepage": "https://github.com/asmaahamdy25/task-react",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
